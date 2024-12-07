@@ -27,24 +27,6 @@ Hi there! I'm **Sakina Ammar**, an enthusiastic IT student at **Middlesex Univer
 ### Other:
 - SolidWorks | Microsoft Office 🎥
 
-## 📂 Featured Projects
-
-### 🌐 **After-School Activities Web App**  
-A fun and functional platform for students and parents to explore and enroll in after-school activities.  
-**Features:**  
-- Full-text search for activities 🔍  
-- Shopping cart functionality 🛒  
-- Sortable lesson listings 📋  
-
-
-### 🤖 **AI Recommendation System**  
-Collaborated on an AI-powered tool to personalize recommendations for users.
-
-## 🎯 My Goals
-
-- 🌍 To revolutionize cloud computing and cybersecurity.  
-- 🌟 To build tech solutions that empower communities.  
-- 🎓 To keep learning, growing, and coding!  
 
 ## 🧙‍♀️ Let’s Connect!
 
