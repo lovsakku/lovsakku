@@ -27,12 +27,6 @@ Hi there! I'm **Sakina Ammar**, an enthusiastic IT student at **Middlesex Univer
 ### Other:
 - SolidWorks | Microsoft Office 🎥
 
-
-## 🧙‍♀️ Let’s Connect!
-
-- LinkedIn: Sakina Ammar  
-- Email: sakinaafs@gmail.com
-
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
