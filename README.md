@@ -20,7 +20,7 @@ When I’m not navigating code, you can find me:
 - 📚 **Studying:** Cybersecurity threats, Vue.js, and Express.js.  
 - 🛠️ **Building:** Impactful projects that bridge creativity and functionality.  
 - 🌈 **Fun Fact:** I’m a *Plant* in the Belbin galaxy 🌱, brimming with fresh ideas for every challenge.  
-- 🏆 **Achievement:** Winner of the Human Capital Consultancy Challenge at Mercer. 🌟  
+- 🏆 **Achievement:** Winner of the Student Research and Innovation Showcase. 🌟  
 
 ---
 
