@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
 <h3 align="center">Passionate Information Technology student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovsakku" alt="lovsakku" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovsakku&label=Profile%20views&color=0e75b6&style=flat" alt="lovsakku" /> </p>
 
-- 🔭 I’m currently working on **AR portfolio**
+<p align="left"> <a href="https://twitter.com/lovsakku" target="blank"><img src="https://img.shields.io/twitter/follow/lovsakku?logo=twitter&style=for-the-badge" alt="lovsakku" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **AR portfolio.**
+
+- 🌱 I’m currently learning **Unity and React.**
 
 - 📫 How to reach me **sakinaafs@gmail.com**
 
@@ -16,7 +18,6 @@
 <a href="https://twitter.com/lovsakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovsakku" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakina-ammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakina-ammar" height="30" width="40" /></a>
 <a href="https://instagram.com/lovsakkuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lovsakkuu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lovsakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lovsakku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovsakku&show_icons=true&locale=en&layout=compact" alt="lovsakku" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovsakku&show_icons=true&locale=en" alt="lovsakku" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovsakku&" alt="lovsakku" /></p>
