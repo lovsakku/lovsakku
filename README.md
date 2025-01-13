@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
-<h3 align="center">A Dedicated Innovator.</h3>
+<h3 align="center">An Innovator.</h3>
 
 - 🔭 I’m currently working on **AR portfolio.**
 
