@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sakinaafs@gmail.com**
 
-- ⚡ Fun fact **I’m a Plant in the Belbin galaxy 🌱, brimming with fresh ideas for every challenge.**
+- ⚡ Fun fact: **I’m a Plant in the Belbin galaxy 🌱, brimming with fresh ideas for every challenge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
