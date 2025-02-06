@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
 <h3 align="center">An Innovator.</h3>
 
-- 🔭 I’m currently working on **VR trauma project.**
+- 🔭 I’m currently working on **VR Avatar Generation Project.**
 
 - 🌱 I’m currently learning **Unity and React.**
 
