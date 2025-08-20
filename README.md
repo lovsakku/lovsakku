@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
-<h3 align="center">An Innovator.</h3>
+<h3 align="center">Constantly learning, always creating.</h3>
 
 - 🔭 I’m currently working on **VR Avatar Generation Project.**
 
-- 🌱 I’m currently learning **Unity and React.**
+- 🌱 I’m currently learning **Unity.**
 
 - 📫 How to reach me **sakinaafs@gmail.com**
 
