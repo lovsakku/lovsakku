@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
-<h3 align="center">Constantly learning, always creating.</h3>
+<h3 align="center">An Aspiring Learner.</h3>
 
 - 🔭 I’m currently working on **VR Avatar Generation Project.**
 
